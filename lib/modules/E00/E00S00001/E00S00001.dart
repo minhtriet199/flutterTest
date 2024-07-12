@@ -58,7 +58,7 @@ class E00S00001 extends StatelessWidget {
                                   borderRadius: BorderRadius.circular(20),
                                 ),
                               ),
-                              child: Text('ĐỔI MẬT KHẨU',
+                              child: Text('Đăng nhập',
                                   style: TextStyle(
                                       color: Colors.white, fontSize: 16)),
                             ),

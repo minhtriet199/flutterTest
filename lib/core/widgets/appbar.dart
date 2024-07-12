@@ -5,7 +5,7 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
   Widget build(BuildContext context) {
     return Container(
       decoration: BoxDecoration(
-        color: Colors.white, // Replace with your color
+        color: Colors.white,
         boxShadow: <BoxShadow>[
           BoxShadow(
             color: Colors.black54,
